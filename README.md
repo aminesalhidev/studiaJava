@@ -23,7 +23,6 @@ Per importare queste librerie, usa il seguente esempio:
 ## Definizione delle classi
 **In java tutto  e definito un oggetto, e per scriver un programma è neccessario definire una classe Ad Esempio:**
 
-In Java, tutto è considerato un oggetto, e per scrivere un programma è necessario definire una classe. Ad esempio:
 ```java
 
 class Saluto {
