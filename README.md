@@ -18,18 +18,13 @@ Il linguaggio Java è nato agli inizi degli anni '90 ed è un linguaggio di prog
 - `java.util`
 
 Per importare queste librerie, usa il seguente esempio:
-```java
-import java.util.*;
-import java.io.*;
-java.awt.*;
-java.swing.*;
-java.net.*;
+
 
 ##Definizione delle classi
 **In java tutto  e definito un oggetto, e per scriver un programma è neccessario definire una classe Ad Esempio:
 
 In Java, tutto è considerato un oggetto, e per scrivere un programma è necessario definire una classe. Ad esempio:
-
+```java
 java
 
 class Saluto {
@@ -40,7 +35,7 @@ class Saluto {
 
 In questo esempio, mostriamo come stampare una semplice scritta.
 Input ed Output
-
+java```
 Per la lettura dei dati, utilizza il componente Scanner. Ecco un esempio:
 
 import java.util.Scanner;
