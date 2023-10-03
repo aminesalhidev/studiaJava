@@ -36,7 +36,7 @@ Input ed Output
 Per la lettura dei dati, utilizza il componente Scanner. Ecco un esempio:
 
 ```java
-import java.util.Scanner;
+import java.util.Scanner;//importiamo la libreria 
 
 public class InputExample {
     public static void main(String[] args) {
