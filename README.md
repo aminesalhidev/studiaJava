@@ -34,9 +34,9 @@ class Saluto {
 ```
 **In questo esempio, mostriamo come stampare una semplice scritta.
 Input ed Output
-java```
 Per la lettura dei dati, utilizza il componente Scanner. Ecco un esempio:
 
+```java
 import java.util.Scanner;
 
 public class InputExample {
