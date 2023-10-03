@@ -18,22 +18,21 @@ Il linguaggio Java è nato agli inizi degli anni '90 ed è un linguaggio di prog
 - `java.util`
 
 Per importare queste librerie, usa il seguente esempio:
-
+**Import
 
 ##Definizione delle classi
 **In java tutto  e definito un oggetto, e per scriver un programma è neccessario definire una classe Ad Esempio:
 
 In Java, tutto è considerato un oggetto, e per scrivere un programma è necessario definire una classe. Ad esempio:
 ```java
-java
 
 class Saluto {
     public static void main(String args[]) {
         System.out.println("Hello world");
     }
 }
-
-In questo esempio, mostriamo come stampare una semplice scritta.
+```
+**In questo esempio, mostriamo come stampare una semplice scritta.
 Input ed Output
 java```
 Per la lettura dei dati, utilizza il componente Scanner. Ecco un esempio:
@@ -48,7 +47,7 @@ public class InputExample {
         nome = sc.next();
     }
 }
-
+```
 ##Il Metodo Main
 
 Il metodo main è il punto di ingresso principale dell'applicazione. Deve avere le seguenti caratteristiche:
