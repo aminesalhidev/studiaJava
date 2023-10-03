@@ -68,7 +68,8 @@ I modificatori di accesso determinano la visibilità degli elementi all'interno 
     protected: Gli elementi sono accessibili all'interno dello stesso package e dalle classi derivate       nello stesso package.
 
 Se non viene specificato alcun modificatore, l'elemento avrà una visibilità di default all'interno dello stesso package.
-Modificatori final e static
+
+## Modificatori final e static
 
 Il modificatore final definisce una variabile costante, mentre il modificatore static permette di richiamare un metodo senza dover istanziare la classe che lo contiene e definisce una variabile globale accessibile a tutte le istanze di una classe.
 
