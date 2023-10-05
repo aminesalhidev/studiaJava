@@ -47,7 +47,6 @@ Ogni linguaggio di programmazione ha i propri tipi di dati:
 - tipi numerici a virgola mobile: ad esempio : float & double
 - ***Boolean* : ammette i soli valori true e false**
 
-![Immagine WhatsApp 2023-10-05 ore 17.56.40_9658f1e0.jpg](https://prod-files-secure.s3.us-west-2.amazonaws.com/fdac6285-3db9-4608-ba1f-708f8221654e/869ac303-d0a0-401e-b6d0-325ec30e92c5/Immagine_WhatsApp_2023-10-05_ore_17.56.40_9658f1e0.jpg)
 
 ## Le stringhe
 
