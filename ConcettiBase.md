@@ -125,7 +125,7 @@ String[] nomi = new String [dim]
 Esempio di array :
 
 ```java
-Scanner leggi = new Scanner(system,in);
+Scanner leggi = new Scanner(system.in);
 int[] vet = new int[5];
   fot (int i = 0; i<5; i++) {
      System.out.print("Inserisci il numero " +i+"del vettore  : ");
